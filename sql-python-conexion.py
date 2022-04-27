@@ -4,7 +4,7 @@ info = {
 	'host':'localhost',
 	'db':'barriauditorias',
 	'user':'SA',
-	'password':'3dgard-83266'
+	'password':'Your-Password'
 }
 
 try:
